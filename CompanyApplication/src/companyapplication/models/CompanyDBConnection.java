@@ -18,9 +18,9 @@ public class CompanyDBConnection {
     private static final String DRIVER = "org.postgresql.Driver";
     private static final String dbServerURL = "127.0.0.1";
     private static final String dbServerPort = "5432";
-    private static final String dbName = "empresa";
+    private static final String dbName = "";
     private static final String username = "postgres";
-    private static final String password = "160651";
+    private static final String password = "";
         
     public static Connection getConnection() {
         //System.out.println("-------- PostgreSQL "
