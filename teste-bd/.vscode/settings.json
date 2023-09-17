@@ -1,6 +1,0 @@
-{
-    "java.project.referencedLibraries": [
-      "teste-bd/src/lib./postgresql-42.6.0.jar"
-    ]
-  }
-  
