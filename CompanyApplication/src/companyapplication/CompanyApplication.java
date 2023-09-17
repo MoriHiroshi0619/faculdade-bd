@@ -4,12 +4,10 @@
  * and open the template in the editor.
  */
 package companyapplication;
-
-import companyapplication.data.*;
 import companyapplication.controllers.*;
+import companyapplication.data.*;
 import companyapplication.views.*;
 
-import java.util.ArrayList; 
 
 /**
  *
